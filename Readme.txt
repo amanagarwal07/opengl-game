@@ -1,8 +1,6 @@
-201101170 & 201101144
-AMAN AGARWAL & JAYESH LAHORI
-GRAPHICS_ASSGN_4
 
-~~~~ BOT Game ~~~~
+AMAN AGARWAL
+
 
 Features:
 Tiled Floor (Static,Obstacles,Periodic UP,Periodic DOWN)
